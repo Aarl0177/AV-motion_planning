@@ -1,4 +1,4 @@
-# Autonomous Vehicle NMPC Simulation with MuJoCo Visualization
+# NMPC-Based Lane Keeping with Dynamic Obstacle Avoidance
 
 This project implements a nonlinear model predictive control (NMPC) framework for an autonomous vehicle using a kinematic bicycle model. The vehicle tracks a reference path while avoiding dynamic obstacles, and the resulting motion is visualized in MuJoCo using a car-like 3D model with steering wheels, moving obstacles, safety regions, and LiDAR-style sensing beams.
 
