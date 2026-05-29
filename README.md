@@ -8,11 +8,7 @@ This project demonstrates a nonlinear model predictive control (NMPC) framework 
 - Nonlinear model predictive control using CasADi
 - Dynamic obstacle prediction
 - Obstacle avoidance with safety constraints
-- Car-like MuJoCo visualization
-- Front-wheel steering visualization
-- Two visual LiDAR beams
-- Saved MP4 replay
-- Plots for vehicle trajectory, control inputs, velocity, and yaw angle
+- Car MuJoCo visualization
 
 ## Simulation Overview
 
